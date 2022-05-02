@@ -1,0 +1,36 @@
+<resources>
+
+    <!--Login and Sign up Strings -->
+    <string name="app_name">MAMCET EEE</string>
+    <string name="text_mamceteee">MAMCET EEE</string>
+    <string name="text_signin_str">Sign in to continue</string>
+    <string name="text_signup_str1">Sign up to continue</string>
+    <string name="text_login">Login</string>
+    <string name="text_signup">Sign Up</string>
+    <string name="text_login_str">Do you have an account? Log In</string>
+    <string name="text_signup_str">Don\'t have an account? Sign Up</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="text_crt_password">Create Password</string>
+    <string name="text_crm_password">Confirm Password</string>
+    <string name="text_forget_password">Forget Password</string>
+    <string name="placeholder_email">Enter the Email</string>
+    <string name="placeholder_password">Enter the Password</string>
+    <string name="placeholder_crt_password">Enter the Password</string>
+    <string name="placeholder_crm_password">Enter Confirm Password</string>
+    <string name="text_agree">By submitting your agree to our Privacy Policy and T&amp;C</string>
+
+    <!-- Home Page Text - 1st slide -->
+    <string name="text_title1">Learning Today,</string>
+    <string name="text_title2">Leading Tomorrow</string>
+    <string name="text_slogan">As difficult as it is to become a good engineer, it is also difficult to become a good electrician as well</string>
+
+    <!-- Home Page Text - 2nd slide -->
+    <string name="students_title">About Us</string>
+    <string name="students_des">M.A.M. College of Engineering and Technology was established with the aim of providing quality education on par with international standards. It persistently seeks and adopts innovative methods to improve the quality of education on a consistent basis for the past 14 years.</string>
+    <string name="students_ach_1">To produce highly competent engineers and technocrats through continual improvement of the standard of teaching, training and research.</string>
+    <string name="students_ach_2">To impart to our youth sound technical knowledge, practical training with a real time exposure.To impart to our youth sound technical knowledge, practical training with a real time exposure</string>
+    <string name="students_ach_3">To imbibe in the minds of the young students the values of ethics and discipline.</string>
+    <string name="students_ach_4">MAMCET students are encouraged to grab the opportunities and make good use of the facilities available in the Campus for self development.</string>
+
+</resources>
